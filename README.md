@@ -1,4 +1,4 @@
-### 무기 개발자가 되고싶은 유현우입니다 👋
+### 무기 개발자가 되고싶은 유현우입니다. 👋
 
 <!--
 **youhyunwoo99/youhyunwoo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
