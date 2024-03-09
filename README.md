@@ -1,6 +1,6 @@
-### 목표는 사람입니다. 👋
+### Hello My name is Can~👋
 
 #### school : Gachon University
-#### major : SW
+#### major : SoftWare
 #### skill : C++, React, Node, Java(android)
 #### interest : IoT, System, Robot, Network
