@@ -2,4 +2,4 @@
 
 #### school : Gachon University
 #### major : SW
-#### skil : C++, React, Node, Java(android)
+#### skill : C++, React, Node, Java(android)
