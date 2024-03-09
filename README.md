@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&text=I%20can%20do%20it%20Can)
+<div>
+  <img src = "https://capsule-render.vercel.app/api?type=Waving&text=I%20can%20do%20it%20Can&fontColor=d6ace6">  
+</div>
+
 <div align="center">
   <img src = "https://github-readme-stats.vercel.app/api?username=youhyunwoo99&show_icons=true&theme=radical">
 </div>
-
-<h4 align="center">Interest : IoT, Web, App, Network</h4>
+<h4 align="center"&fontColor= "Blue"> ✨IoT, Web, App, Network✨</h4>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-4479A1?style=for-the-badge&logo=c&logoColor=white">
